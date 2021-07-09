@@ -6,3 +6,7 @@
     <li>Modify existing note</li>
     <li>Delete notes</li>
 </ul>
+<h1>Screenshotes</h1>
+<hr />
+
+<img src="./Screenshots/1.png">
